@@ -1,0 +1,21 @@
+body {
+  position: relative;
+}
+
+.jumbotron {
+  margin-top: 54px;
+}
+
+.section {
+  margin-bottom: 100px;
+}
+
+.footer {
+  padding: 50px 0;
+  color: #fff;
+  background: #0275d8;
+}
+
+.footer a {
+  color: #fff;
+}
